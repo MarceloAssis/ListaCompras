@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Projetos Android\ListaCompras\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\Projetos Android\ListaCompras\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-526fb76e355ddb897f3f38aa6ab3737e47272253.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcelo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Projetos Android\ListaCompras\app\build\intermediates\pre-dexed\debug\gson-2.3.1-60dd82c4b81cc4c73b4c01b2d18173a11e8ef406.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marcelo\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\Projetos Android\ListaCompras\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-c128e000fb0e13cdd162eb65d1aca293677a0e33.jar" />
+    </item>
+    <item
+        jar="D:\Projetos Android\ListaCompras\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\Projetos Android\ListaCompras\app\build\intermediates\pre-dexed\debug\classes-4925b0a030b0ce7533331379a95c875a7ca0eedf.jar" />
+    </item>
+    <item
+        jar="D:\Projetos Android\ListaCompras\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\Projetos Android\ListaCompras\app\build\intermediates\pre-dexed\debug\classes-65797e5a9278efba9ef73d4516e6c69ffa901b00.jar" />
+    </item>
+
+</items>
